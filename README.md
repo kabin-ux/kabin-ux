@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabin-dongol-maharjan&show_icons=true&theme=radical" alt="Kabin's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabin-dongol-maharjan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabin-ux&show_icons=true&theme=radical" alt="Kabin's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabin-ux&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
