@@ -1,7 +1,49 @@
-# 👋 Hi, I’m Kabin Dongol
-- 🌱 I’m currently learning React, Firebase, and TypeScript
-- 👯 I’m looking to collaborate on MERN stack projects
-- 🛠️ Projects: Waste Wise PWA, Bookstore App, Plant Disease Classifier
-- 📫 How to reach me: kabin@example.com | [LinkedIn](https://linkedin.com/in/kabin-dongol-maharjan)
+<h1 align="center">Hi 👋, I'm Kabin Dongol Maharjan</h1>
+<h3 align="center">A passionate MERN stack developer from Nepal 🇳🇵</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabin-dongol&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on: **real-time chat apps, social media clones, and PWA-based platforms**
+- 🌱 I’m learning: **TypeScript, TailwindCSS, Firebase Cloud Messaging (FCM), and scalable architecture**
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Firebase`, `Socket.IO`, and `MERN projects`
+- 📫 How to reach me:  
+  - 📧 **kabin.maharjan79@gmail.com**  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/kabin-dongol-maharjan-0bb3a4290/)
+- 🗂️ I enjoy building apps that **solve real-world problems**, especially for **local Nepali communities**.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,html,css,tailwind,redux,firebase,git,github,vscode" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabin-dongol-maharjan&show_icons=true&theme=radical" alt="Kabin's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabin-dongol-maharjan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="center">
+  <a href="mailto:kabin.maharjan79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kabin-dongol-maharjan-0bb3a4290/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+_“Building locally impactful tech, one project at a time.”_
