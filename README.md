@@ -29,6 +29,8 @@
 ---
 
 ### 📊 GitHub Stats
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=kabin-ux.kabin-ux)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kabin-ux&show_icons=true&theme=radical" alt="Kabin's GitHub stats" />
