@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
